@@ -18,3 +18,8 @@ Data used for GIS projects
 | [Administrative Areas - OSi National Statutory Boundaries](https://data.gov.ie/dataset/administrative-areas-osi-national-statutory-boundaries) | shapefile | 29.2 MB | - MB |
 | [Local Electoral Areas - OSi National Statutory Boundaries](https://data.gov.ie/dataset/local-electoral-areas-osi-national-statutory-boundaries) | shapefile | 38.3 MB | - MB |
 | [Electoral Divisions - OSi National Statutory Boundaries](https://data.gov.ie/dataset/electoral-divisions-osi-national-statutory-boundaries) | shapefile | 113.4 MB | - MB |
+#### Other
+| Link          | Filetype      | Size  | Minified Size |
+| ------------- |:-------------:| -----:| -------------:|
+| [Eircode Routing Key Boundaries](https://www.autoaddress.ie/support/developer-centre/resources/routing-key-boundaries) | shapefile | 3.9 MB | 1 MB |
+
